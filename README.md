@@ -1,7 +1,7 @@
 # Validity Sensors Fingerprint Reader on Kubuntu/Ubuntu 25.04 (Resolute)
 
 > A guide to getting the **Validity Sensors `138a:0097`** fingerprint reader working on Kubuntu/Ubuntu 25.04 (Resolute) with Python 3.14.
-> Tested on a **Lenovo ThinkPad** with the built-in Validity fingerprint reader.
+> Tested on a **Lenovo ThinkPad Yoga 370** with the built-in Validity fingerprint reader.
 
 ---
 
